@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "GeceBekçisi",
   "bot-account": {
-    "username": "Nightbyte",
-    "password": "123",
+    "username": "GeceBekçisi",
+    "password": "",
     "type": "online"
   },
   "server": {
     "ip": "mineboxing.aternos.me",
     "port": 61828,
-    "version":"26.2",
+    "version":"1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,14 +31,14 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "hi",
-        "I like to play Minecraft!"
+        "Bu sunucuda oynadığınız için teşekkürler",
+        "İyi oyunlar!",
+        "Hoşgeldiniz!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 1000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 120000
   },
   "movement": {
